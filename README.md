@@ -1,6 +1,6 @@
 # NBA Query Tool
 
-A command-line tool that uses Claude Sonnet 3.7 to convert natural language questions about NBA data into SQL queries and execute them against an NBA SQLite database.
+A command-line tool that uses Claude 3.7 Sonnet to convert natural language questions about NBA data into SQL queries and execute them against an NBA SQLite database.
 
 ## Features
 
