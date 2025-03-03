@@ -1,0 +1,4 @@
+anthropic>=0.19.0
+tabulate==0.9.0
+colorama==0.4.6
+python-dotenv==1.0.1 
